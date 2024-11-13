@@ -7,6 +7,9 @@ This project develops a hybrid algorithmic trading strategy for predicting stock
 - Gautam Makwana, Pandit Deendayal Energy University
 - Jainish Shah, IISER Thiruvananthapuram
 
+## Note:
+Link for the NIFTY 500 dataset: [Link Text](https://drive.google.com/drive/folders/1HAJhcRMbj2B25_ubXYdegyu_404O8vRw?usp=drive_link)
+
 ## Key Features
 **1.** **Data Collection and Processing:** Historical market data for the Nifty 500 index is sourced from Yahoo Finance, including daily, weekly, and monthly price and volume data.<br>
 **2. Modeling:** 
