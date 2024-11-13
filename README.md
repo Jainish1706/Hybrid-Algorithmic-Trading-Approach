@@ -28,7 +28,3 @@ The hybrid strategy incorporates ARIMA and LSTM models for forecasting. After da
 ## Results
 The integrated ARIMA-LSTM model demonstrated high accuracy in predicting price movements and generating reliable trading signals. By incorporating both linear and non-linear insights, the hybrid strategy achieved superior risk-adjusted returns compared to using traditional technical indicators alone.
 
-## Image of Results:
-![Screenshot 2024-11-14 000104](https://github.com/user-attachments/assets/f00a1606-0232-40cc-91b3-440ce4ada1f4)
-![Screenshot 2024-11-14 000126](https://github.com/user-attachments/assets/87878c77-0913-450c-a1b2-48b3bb3ffece)
-
